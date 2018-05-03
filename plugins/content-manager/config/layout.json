@@ -1,0 +1,12 @@
+{
+  "bakery": {
+    "attributes": {
+      "name": {
+        "appearance": ""
+      },
+      "rating": {
+        "appearance": ""
+      }
+    }
+  }
+}
